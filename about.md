@@ -1,17 +1,15 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Jean Habib | Software Quality Engineer</title>
-  </head>
-  <body>
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+<body>
     <div style="display: flexbox; width: 800px; font-family: Sinhala MN; text-align: justify">
       <div style="display: inline-block">
-        <h1>Jean Habib</h1>
-        <p>Software Quality Engineer</p>
         <p><a style="text-decoration: none; color: cornflowerblue" href="https://www.linkedin.com/in/jeanhabib/">LinkedIn</a></p>
         <p><a style="text-decoration: none; color: cornflowerblue" href="mailto:jean.habib@gmail.com">jean.habib@gmail.com</a></p>
-        <p><a style="text-decoration: none; color: cornflowerblue" href="tel:+5511981619689">+55 11 98161-9689</a></p>
+        <p><a style="text-decoration: none; color: cornflowerblue" href="tel:+5511981619689"></a></p>
       </div>
       <div style="float: right">
         <img width="100px" src="https://avatars.githubusercontent.com/u/14189670?v=4" alt="Jean Habib" />
@@ -33,4 +31,3 @@
       </div>
     </div>
   </body>
-</html>
