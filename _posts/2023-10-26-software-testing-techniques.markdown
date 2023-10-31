@@ -5,7 +5,9 @@ date: 2023-10-26 18:27:31 -0300
 categories: software techniques
 ---
 
-Software testing techniques are the ways and methods used to design and execute tests to evaluate software applications. There are many different software testing techniques, each with its own strengths and weaknesses. The best software testing technique to use will depend on the specific software application being tested and the goals of the testing effort.
+Software testing techniques are the ways and methods used to design and execute tests to evaluate software applications.
+
+There are many different software testing techniques, each with its own strengths and weaknesses. The best software testing technique to use will depend on the specific software application being tested and the goals of the testing effort.
 
 Here are some of the most common software testing techniques:
 
