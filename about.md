@@ -6,8 +6,7 @@ permalink: /about/
 
 - [LinkedIn](https://www.linkedin.com/in/jeanhabib/)
 - [GitHub](https://github.com/jeanhabib)
-- [jean.habib@gmail.com](mailto:jean.habib@gmail.com)
-- [+55 11 98161-9689](tel:+5511981619689)
+- [Twitter](https://x.com/habibbr)
 
 <body>
     <div style="display: flexbox; width: 800px; font-family: Sinhala MN; text-align: justify">
